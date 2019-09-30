@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Array_to_function_min_to_max\Array_to_function_min_to_max\bin\Debug\Array_to_function_min_to_max.exe.config
+D:\DEV\C#\Practice\Array_to_function_min_to_max\Array_to_function_min_to_max\bin\Debug\Array_to_function_min_to_max.exe
+D:\DEV\C#\Practice\Array_to_function_min_to_max\Array_to_function_min_to_max\bin\Debug\Array_to_function_min_to_max.pdb
+D:\DEV\C#\Practice\Array_to_function_min_to_max\Array_to_function_min_to_max\obj\Debug\Array_to_function_min_to_max.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Array_to_function_min_to_max\Array_to_function_min_to_max\obj\Debug\Array_to_function_min_to_max.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Array_to_function_min_to_max\Array_to_function_min_to_max\obj\Debug\Array_to_function_min_to_max.exe
+D:\DEV\C#\Practice\Array_to_function_min_to_max\Array_to_function_min_to_max\obj\Debug\Array_to_function_min_to_max.pdb
